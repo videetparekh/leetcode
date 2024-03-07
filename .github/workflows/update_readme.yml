@@ -21,7 +21,7 @@ jobs:
           FILES=$(echo "$FILES" | sed 's/^\.\///')
           
           # Prepare bullet points for README
-          BULLET_POINTS="# Solutions"
+          BULLET_POINTS="# Solutions For\n\n"
           for FILE in $FILES; do
             BULLET_POINTS="$BULLET_POINTS- $FILE\n"
           done
