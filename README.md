@@ -28,4 +28,5 @@
 - 8-string-to-integer.py
 - 86-partition-list.py
 - 88-merge-sorted-arrays.py
+- 994-rotting-oranges.py
 
