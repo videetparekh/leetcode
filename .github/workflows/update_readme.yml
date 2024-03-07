@@ -16,7 +16,7 @@ jobs:
       - name: Find Python files and update README
         run: |
           # Find all .py files in the repository
-          FILES=$(find . -type f -name "*.py")
+          FILES=$(find . -type f -name "*.py" | sort)
           # Remove the leading './' from the filenames
           FILES=$(echo "$FILES" | sed 's/^\.\///')
           
