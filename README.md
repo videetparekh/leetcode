@@ -3,6 +3,7 @@
 - 101-symmetric-tree.py
 - 117-populating-next-right-pointers-in-each-node-II.py
 - 14-longest-common-prefix.py
+- 1512-number-of-good-pairs.py
 - 152-maximum-product-subarray.py
 - 1684-count-the-number-of-consistent-strings.py
 - 1790-check-if-one-string-swap-can-make-strings-equal.py
