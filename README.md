@@ -4,6 +4,7 @@
 - 117-populating-next-right-pointers-in-each-node-II.py
 - 14-longest-common-prefix.py
 - 152-maximum-product-subarray.py
+- 1684-count-the-number-of-consistent-strings.py
 - 1790-check-if-one-string-swap-can-make-strings-equal.py
 - 1877-minimize-maximum-pair-sum-in-array.py
 - 198-house-robber.py
