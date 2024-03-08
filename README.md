@@ -5,6 +5,7 @@
 - 14-longest-common-prefix.py
 - 1512-number-of-good-pairs.py
 - 152-maximum-product-subarray.py
+- 1572-matrix-diagonal-sum.py
 - 1684-count-the-number-of-consistent-strings.py
 - 1790-check-if-one-string-swap-can-make-strings-equal.py
 - 1859-sorting-the-sentence.py
