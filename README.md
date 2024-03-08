@@ -8,6 +8,7 @@
 - 1572-matrix-diagonal-sum.py
 - 1640-check-array-formation-through-concatenation.py
 - 1684-count-the-number-of-consistent-strings.py
+- 1688-count-of-matches-in-tournament.py
 - 1790-check-if-one-string-swap-can-make-strings-equal.py
 - 1859-sorting-the-sentence.py
 - 1869-longer-contiguous-segments-of-ones-than-zeros.py
