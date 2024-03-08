@@ -14,6 +14,7 @@
 - 200-number-of-islands.py
 - 2032-two-out-of-three.py
 - 2085-count-common-words-with-one-occurrence.py
+- 2160-minimum-sum-of-four-digit-number-after-splitting-digits.py
 - 226-invert-binary-tree.py
 - 230-kth-smallest-element-in-a-bst.py
 - 239-sliding-window-maximum.py
