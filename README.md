@@ -22,6 +22,7 @@
 - 226-invert-binary-tree.py
 - 230-kth-smallest-element-in-a-bst.py
 - 239-sliding-window-maximum.py
+- 2540-minimum-common-value.py
 - 290-word-pattern.py
 - 328-odd-even-linked-list.py
 - 42-trapping-rainwater.py
