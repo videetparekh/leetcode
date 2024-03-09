@@ -27,6 +27,7 @@
 - 328-odd-even-linked-list.py
 - 42-trapping-rainwater.py
 - 49-group-anagrams.py
+- 500-keyboard-row.py
 - 61-rotate-list.py
 - 64-minimum-path-sum.py
 - 649-dota2-senate.py
