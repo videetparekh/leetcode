@@ -26,6 +26,7 @@
 - 290-word-pattern.py
 - 328-odd-even-linked-list.py
 - 42-trapping-rainwater.py
+- 453-minimum-moves-to-equal-array-elements.py
 - 49-group-anagrams.py
 - 500-keyboard-row.py
 - 501-find-mode-in-binary-search-tree.py
