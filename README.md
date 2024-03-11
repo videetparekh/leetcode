@@ -2,6 +2,7 @@
 
 - 101-symmetric-tree.py
 - 117-populating-next-right-pointers-in-each-node-II.py
+- 125-valid-palindrome.py
 - 13-roman-to-integer.py
 - 14-longest-common-prefix.py
 - 1512-number-of-good-pairs.py
