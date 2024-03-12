@@ -30,6 +30,7 @@
 - 2807-insert-greatest-common-divisors-in-linked-list.py
 - 290-word-pattern.py
 - 328-odd-even-linked-list.py
+- 380-insert-delete-getrandom-o(1).py
 - 42-trapping-rainwater.py
 - 453-minimum-moves-to-equal-array-elements.py
 - 49-group-anagrams.py
