@@ -5,6 +5,7 @@
 - 125-valid-palindrome.py
 - 13-roman-to-integer.py
 - 134-gas-station.py
+- 1396-design-underground-system.py
 - 14-longest-common-prefix.py
 - 1512-number-of-good-pairs.py
 - 152-maximum-product-subarray.py
