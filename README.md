@@ -36,6 +36,7 @@
 - 49-group-anagrams.py
 - 500-keyboard-row.py
 - 501-find-mode-in-binary-search-tree.py
+- 6-zigzag-conversion.py
 - 61-rotate-list.py
 - 64-minimum-path-sum.py
 - 649-dota2-senate.py
