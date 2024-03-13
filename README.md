@@ -37,6 +37,7 @@
 - 49-group-anagrams.py
 - 500-keyboard-row.py
 - 501-find-mode-in-binary-search-tree.py
+- 58-length-of-last-word.py
 - 6-zigzag-conversion.py
 - 61-rotate-list.py
 - 64-minimum-path-sum.py
