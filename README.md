@@ -11,6 +11,7 @@
 - 152-maximum-product-subarray.py
 - 1572-matrix-diagonal-sum.py
 - 1640-check-array-formation-through-concatenation.py
+- 167-two-sum-ii-input-array-is-sorted.py
 - 1684-count-the-number-of-consistent-strings.py
 - 1688-count-of-matches-in-tournament.py
 - 1790-check-if-one-string-swap-can-make-strings-equal.py
