@@ -1,5 +1,9 @@
 class Solution:
     def lengthOfLastWord(self, s: str) -> int:
+        """
+        This is significantly faster than the following code since it traverses from the rear.
+        return len(s.strip().split()[-1])
+        """
         start = False
         ptr = -1
         for i in range(len(s)-1, -1, -1):
