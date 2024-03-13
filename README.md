@@ -28,6 +28,7 @@
 - 230-kth-smallest-element-in-a-bst.py
 - 239-sliding-window-maximum.py
 - 2540-minimum-common-value.py
+- 28-find-the-index-of-the-first-occurrence-in-a-string.py
 - 2807-insert-greatest-common-divisors-in-linked-list.py
 - 290-word-pattern.py
 - 328-odd-even-linked-list.py
