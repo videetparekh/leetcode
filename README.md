@@ -7,6 +7,7 @@
 - 134-gas-station.py
 - 1396-design-underground-system.py
 - 14-longest-common-prefix.py
+- 15-3sum.py
 - 1512-number-of-good-pairs.py
 - 152-maximum-product-subarray.py
 - 1572-matrix-diagonal-sum.py
