@@ -33,6 +33,7 @@
 - 28-find-the-index-of-the-first-occurrence-in-a-string.py
 - 2807-insert-greatest-common-divisors-in-linked-list.py
 - 290-word-pattern.py
+- 3-longest-substring-without-repeating-characters.py
 - 328-odd-even-linked-list.py
 - 380-insert-delete-getrandom-o(1).py
 - 383-ransom-note.py
