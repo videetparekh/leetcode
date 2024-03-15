@@ -19,6 +19,7 @@
 - 1859-sorting-the-sentence.py
 - 1869-longer-contiguous-segments-of-ones-than-zeros.py
 - 1877-minimize-maximum-pair-sum-in-array.py
+- 19-remove-nth-node-from-end-of-list.py
 - 198-house-robber.py
 - 2-add-two-numbers.py
 - 200-number-of-islands.py
