@@ -49,6 +49,7 @@
 - 61-rotate-list.py
 - 64-minimum-path-sum.py
 - 649-dota2-senate.py
+- 68-text-justification.py
 - 746-min-cost-climbing-stairs.py
 - 79-word-search.py
 - 8-string-to-integer.py
