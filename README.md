@@ -55,5 +55,6 @@
 - 8-string-to-integer.py
 - 86-partition-list.py
 - 88-merge-sorted-arrays.py
+- 9-palindrome-number.py
 - 994-rotting-oranges.py
 
