@@ -57,5 +57,6 @@
 - 86-partition-list.py
 - 88-merge-sorted-arrays.py
 - 9-palindrome-number.py
+- 98-validate-binary-search-tree.py
 - 994-rotting-oranges.py
 
