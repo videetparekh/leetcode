@@ -26,6 +26,7 @@
 - 2032-two-out-of-three.py
 - 2085-count-common-words-with-one-occurrence.py
 - 209-minimum-size-subarray-sum.py
+- 215-kth-largest-element-in-an-array.py
 - 2160-minimum-sum-of-four-digit-number-after-splitting-digits.py
 - 219-contains-duplicate-ii.py
 - 226-invert-binary-tree.py
