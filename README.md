@@ -43,6 +43,7 @@
 - 380-insert-delete-getrandom-o(1).py
 - 383-ransom-note.py
 - 42-trapping-rainwater.py
+- 438-find-all-anagrams-in-a-string.py
 - 453-minimum-moves-to-equal-array-elements.py
 - 49-group-anagrams.py
 - 500-keyboard-row.py
