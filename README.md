@@ -42,6 +42,7 @@
 - 35-search-insert-position.py
 - 380-insert-delete-getrandom-o(1).py
 - 383-ransom-note.py
+- 394-decode-string.py
 - 42-trapping-rainwater.py
 - 438-find-all-anagrams-in-a-string.py
 - 453-minimum-moves-to-equal-array-elements.py
