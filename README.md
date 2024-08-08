@@ -58,6 +58,7 @@
 - 649-dota2-senate.py
 - 68-text-justification.py
 - 73-set-matrix-zeroes.py
+- 739-daily-temperatures.py
 - 746-min-cost-climbing-stairs.py
 - 79-word-search.py
 - 8-string-to-integer.py
