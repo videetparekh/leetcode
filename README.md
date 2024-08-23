@@ -1,6 +1,7 @@
 # Solutions For
 
 - 101-symmetric-tree.py
+- 104-maximum-depth-of-binary-tree.py
 - 117-populating-next-right-pointers-in-each-node-II.py
 - 125-valid-palindrome.py
 - 13-roman-to-integer.py
