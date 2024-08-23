@@ -40,6 +40,7 @@
 - 290-word-pattern.py
 - 3-longest-substring-without-repeating-characters.py
 - 328-odd-even-linked-list.py
+- 34-find-first-and-last-position-of-element-in-sorted-array.py
 - 35-search-insert-position.py
 - 380-insert-delete-getrandom-o(1).py
 - 383-ransom-note.py
