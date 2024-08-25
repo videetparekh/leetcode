@@ -25,6 +25,7 @@
 - 19-remove-nth-node-from-end-of-list.py
 - 198-house-robber.py
 - 2-add-two-numbers.py
+- 20-valid-parentheses.py
 - 200-number-of-islands.py
 - 2032-two-out-of-three.py
 - 2085-count-common-words-with-one-occurrence.py
