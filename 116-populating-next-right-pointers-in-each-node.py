@@ -11,17 +11,18 @@ class Node:
 class Solution:
     def connect(self, root: 'Optional[Node]') -> 'Optional[Node]':
         if not root:
-            return None
-        ptrs = {}
+            return root
 
-        def dfs(node, depth):
+        queue = deque([(root, 0)])
+        prev = None
+        prev_lvl = -1
+        while queue:
+            node, lvl = queue.popleft()
             if node:
-                if depth in ptrs:
-                    ptrs[depth].next = node
-                ptrs[depth] = node
-            
-                dfs(node.left, depth+1)
-                dfs(node.right, depth+1)
-        
-        dfs(root, 0)
+                if prev and prev_lvl == lvl:
+                    prev.next = node
+                prev = node
+                prev_lvl = lvl
+                queue.append((node.left, lvl+1))
+                queue.append((node.right, lvl+1))
         return root
